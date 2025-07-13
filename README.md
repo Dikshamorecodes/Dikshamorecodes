@@ -1,8 +1,8 @@
 <h1 align="left">Hello world 👋 Diksha More here — building and learning every day 💻🚀</h1>
 <h3 align="left">🎓 BCA Student | 💻 UI/UX Learner | 📊 Data Analytics Explorer</h3>
 
-<p align="right">
-  <img src="https://tse4.mm.bing.net/th/id/OIP.9RYe8h-blL18dr3ZLqC1kwHaEb?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="300" alt="tech gif">
+<p align="center">
+  <img src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-jumbo.gif" width=" 400" alt="tech gifs">
 </p>
 
 
